@@ -21,8 +21,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
 Once the contract is deployed, you can interact with it by calling the MyToken function. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "MyToken" function. Finally, click on the "transact" button to execute the function and retrieve the "totalvalue" message.
-```
-code blocks for commands
+````
+
 
 
 
@@ -55,16 +55,10 @@ function burn (address _address, uint _value) public {
     }
 }
 }
-
-
-
-## Authors
-
+``````
+## Author
 Gaurav Kumar Singh
+gauravattent@gmail.com
 
-gauravkumarsingh21nov@gmail.com
-
-
-## License
-
+## license
 This project is licensed under the MIT License - see the LICENSE.md file for details
